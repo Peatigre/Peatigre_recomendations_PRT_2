@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(rgb(128, 128, 128),rgb(94, 94, 94),rgb(70, 69, 69));
+    text-align: center;
+    font-size: 30px;
+    }
+    
+    h4 /*forma de llamar cuando no tenemos id o class*/
+    {
+        color: rgb(255, 255, 255);
+        font-size: 35px;
+    }
+    #cancion  /*forma de llamar cuando tenemos id html*/
+    {
+        background: rgb(255, 255, 255);
+        color: rgb(255, 255, 255);
+        font-size: 50px;
+    }
+    #cancion1{
+        color: rgb(0, 0, 0);
+    }
+    .img /*forma de llamar cuando tenemos class en html*/
+    {
+        border-color: rgb(255, 255, 255);
+        border-width: 40px;
+        border-radius: 20px;
+        width: 150px;
+        height: 140px;
+    
+    }
